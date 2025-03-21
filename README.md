@@ -45,44 +45,32 @@ Este projeto tem como objetivo desenvolver uma plataforma em BI, que:
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Dar acesso do Jira Software a todos do grupo;
+- [ ] Criar BackLog;
+- [ ] Criar Github;
+- [ ] Alinhamento do Grupo quanto aos requisitos do cliente;
+- [ ] Baixar bases públicas no site ComexStat;
+- [ ] Salvar as bases no Github em duas versões (Completa e Compilada);
+- [ ] Tratar bases em Python (Compilar e transformar dados);
+- [ ] Criar um dashboard piloto em  Excel com a base compilada;
+- [ ] Validação e apresentação da proposta do dashboard piloto ao cliente;
+- [ ] Salvar arquivo da proposta piloto no Github do grupo.
 
 ## Sprint 2
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [ ] Iniciar o Dashboard em PowerBI, carregando e transformando as bases;
+- [ ] Iniciar os relacionamentos necessários no Dashboard no PowerBI;
+- [ ] Criação das medidas;
+- [ ] Iniciar a parte da visualização das principais métricas solicitadas;
+- [ ] Testar o Dashboard;
+- [ ] Formatar o Dashboard conforme requisitos do cliente;
+- [ ] Salvar o Dashboard em PowerBI no Github.
       
 ## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Finalização da formatação do PowerBI;
+- [ ] Ajustes conforme solicitação do cliente.
       
 ## Sprint 4
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Apresentação do resultado final.
 
 # Registro das Sprints
 

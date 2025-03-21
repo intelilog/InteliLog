@@ -1,6 +1,6 @@
 # Aprendizado por Projeto Integrador (API)
 
-Projeto baseado na metodologia ágil SCRUM de acompanhamento do desempenho de municípios do estado de SP.
+Projeto baseado na Metodologia SCRUM para acompanhamento do desempenho de municípios do estado de São Paulo.
 
 # Índice
 * [Projeto](#projeto)
@@ -11,17 +11,19 @@ Projeto baseado na metodologia ágil SCRUM de acompanhamento do desempenho de mu
 # Projeto
 Acompanhamento dos Resultados de Exportação dos Municípios do Estado de São Paulo, baseando-se nos dados abertos do Ministério do Desenvolvimento, Indústria, Comércio e Serviços.
 
+
 # Equipe
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Natalia Costa      |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-costa-469a662b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/natcsantos)              |
-| Scrum Master  | Amanda Izumi|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-izumi-analistaadmfinanceiro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AmandaIzumi23)     |
-| Team Member   | Luany Moreira           |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luany-moreira-de-paula-a25a78343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nepoun)        |
-|  Team Member  | Manoela Nobre             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manoela-batista-nobre-800206271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
-|  Team Member  | Guilherme Braga              |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-braga-873592356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/braga2601)   |
-|  Team Member  | Vinicius Felix   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-felix-teixeira-0692a2357?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
-|  Team Member  | Derik Ribeiro    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derik-ribeiro-2769a5347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DerikRibeiro06)          |
-|  Team Member  | Nykollas Martins    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nykollas-martins-b220302b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Nykollas27)          |
+| Função | Nome | LinkedIn & GitHub |
+| :---   |:--- |       :---       |
+| Product Owner   | Natalia Costa   |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-costa-469a662b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=GitHub&logoColor=white)](https://GitHub.com/natcsantos)              |    
+| Scrum Master   | Amanda Izumi   |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-izumi-analistaadmfinanceiro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=GitHub&logoColor=white)](https://GitHub.com/AmandaIzumi23)     |
+| Team Member   | Luany Moreira           |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luany-moreira-de-paula-a25a78343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=GitHub&logoColor=white)](https://GitHub.com/Nepoun)        |
+|  Team Member  | Manoela Nobre             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manoela-batista-nobre-800206271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=GitHub&logoColor=white)](https://GitHub.com/CaioVitorDias1)        |
+|  Team Member  | Guilherme Braga              |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-braga-873592356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=GitHub&logoColor=white)](https://GitHub.com/braga2601)   |
+|  Team Member  | Vinicius Felix   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-felix-teixeira-0692a2357?trk=contact-info) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=GitHub&logoColor=white)](https://GitHub.com/gioliveirass)          |
+|  Team Member  | Derik Ribeiro    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derik-ribeiro-2769a5347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=GitHub&logoColor=white)](https://GitHub.com/DerikRibeiro06)          |
+|  Team Member  | Nykollas Martins    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nykollas-martins-b220302b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=GitHub&logoColor=white)](https://GitHub.com/Nykollas27)          |
+
 
 # Objetivo do Projeto
 Este projeto tem como objetivo desenvolver uma plataforma em BI, que:
@@ -34,7 +36,7 @@ Este projeto tem como objetivo desenvolver uma plataforma em BI, que:
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > * Github  
+ > * GitHub
  > * Jira  
  > * Slack
   
@@ -45,16 +47,16 @@ Este projeto tem como objetivo desenvolver uma plataforma em BI, que:
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Dar acesso do Jira Software a todos do grupo;
-- [ ] Criar BackLog;
-- [ ] Criar Github;
+- [x] Dar acesso do Jira Software a todos do grupo;
+- [x] Criar BackLog;
+- [x] Criar GitHub;
 - [ ] Alinhamento do Grupo quanto aos requisitos do cliente;
 - [ ] Baixar bases públicas no site ComexStat;
-- [ ] Salvar as bases no Github em duas versões (Completa e Compilada);
+- [ ] Salvar as bases no GitHub em duas versões (Completa e Compilada);
 - [ ] Tratar bases em Python (Compilar e transformar dados);
 - [ ] Criar um dashboard piloto em  Excel com a base compilada;
 - [ ] Validação e apresentação da proposta do dashboard piloto ao cliente;
-- [ ] Salvar arquivo da proposta piloto no Github do grupo.
+- [ ] Salvar arquivo da proposta piloto no GitHub do grupo.
 
 ## Sprint 2
 - [ ] Iniciar o Dashboard em PowerBI, carregando e transformando as bases;
@@ -63,7 +65,7 @@ Este projeto tem como objetivo desenvolver uma plataforma em BI, que:
 - [ ] Iniciar a parte da visualização das principais métricas solicitadas;
 - [ ] Testar o Dashboard;
 - [ ] Formatar o Dashboard conforme requisitos do cliente;
-- [ ] Salvar o Dashboard em PowerBI no Github.
+- [ ] Salvar o Dashboard em PowerBI no GitHub.
       
 ## Sprint 3
 - [ ] Finalização da formatação do PowerBI;

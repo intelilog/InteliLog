@@ -37,7 +37,7 @@ Este projeto tem como objetivo desenvolver uma plataforma em BI, que:
 
  ### Tecnologias Específicas/Apoio
  > * GitHub
- > * Jira  
+ > * Jira Software
  > * Slack
   
  ### Tecnologias da Informação

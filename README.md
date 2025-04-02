@@ -50,10 +50,10 @@ Este projeto tem como objetivo desenvolver uma plataforma em BI, que:
 - [x] Dar acesso do Jira Software a todos do grupo;
 - [x] Criar BackLog;
 - [x] Criar GitHub;
-- [ ] Alinhamento do Grupo quanto aos requisitos do cliente;
-- [ ] Baixar bases públicas no site ComexStat;
+- [x] Alinhamento do Grupo quanto aos requisitos do cliente;
+- [x] Baixar bases públicas no site ComexStat;
 - [ ] Salvar as bases no GitHub em duas versões (Completa e Compilada);
-- [ ] Tratar bases em Python (Compilar e transformar dados);
+- [x] Tratar bases em Python (Compilar e transformar dados);
 - [ ] Criar um dashboard piloto em  Excel com a base compilada;
 - [ ] Validação e apresentação da proposta do dashboard piloto ao cliente;
 - [ ] Salvar arquivo da proposta piloto no GitHub do grupo.

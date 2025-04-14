@@ -101,8 +101,8 @@ Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Pa
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-| Sprint 01 | 31/03/2025 | a fazer| [MVP](https://) | 
-| Sprint 02 | 14/04/2025 | a fazer|[MVP](https://) | 
+| Sprint 01 | 07/04/2025 | Finalizada | [MVP](https://) | 
+| Sprint 02 | 28/04/2025 | a fazer|[MVP](https://) | 
 | Sprint 03 | 12/05/2025 | a fazer|[MVP](https://) | 
-| Feira de Soluções | 29/05/2025 |a fazer |[MVP](https://) | 
+| Feira de Soluções | 17/06/2025 |a fazer |[MVP](https://) | 
 | Sprint 04 | 23/06/2025 |a fazer |[MVP](https://)  | 

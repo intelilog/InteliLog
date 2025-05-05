@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrador (API)
+9# Aprendizado por Projeto Integrador (API)
 
 Projeto baseado na Metodologia SCRUM para acompanhamento do desempenho de municípios do estado de São Paulo.
 
@@ -65,11 +65,11 @@ Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Pa
 | 1 | Alta | Como cliente quero compreender com base na tendência histórica, quais são as projeçõs para o desempenho comercial dos municípios nos próximos anos para planejar meu futuro. | Uma semana | 1 | 10 |
 
 ## Sprint 2
-- [ ] Iniciar o Dashboard em PowerBI, carregando e transformando as bases;
-- [ ] Iniciar os relacionamentos necessários no Dashboard no PowerBI;
-- [ ] Criação das medidas;
-- [ ] Iniciar a parte da visualização das principais métricas solicitadas;
-- [ ] Testar o Dashboard;
+- [x] Iniciar o Dashboard em PowerBI, carregando e transformando as bases;
+- [x] Iniciar os relacionamentos necessários no Dashboard no PowerBI;
+- [x] Criação das medidas;
+- [x] Iniciar a parte da visualização das principais métricas solicitadas;
+- [x] Testar o Dashboard;
 - [ ] Formatar o Dashboard conforme requisitos do cliente;
 - [ ] Salvar o Dashboard em PowerBI no GitHub.
 

@@ -54,8 +54,8 @@ Este projeto tem como objetivo desenvolver uma plataforma em BI, que:
 - [ ] Salvar as bases no GitHub em duas versões (Completa e Compilada);
 - [x] Tratar bases em Python (Compilar e transformar dados);
 - [x] Criar um dashboard piloto em  Excel com a base compilada;
-- [ ] Validação e apresentação da proposta do dashboard piloto ao cliente;
-- [ ] Salvar arquivo da proposta piloto no GitHub do grupo.
+- [x] Validação e apresentação da proposta do dashboard piloto ao cliente;
+- [x] Salvar arquivo da proposta piloto no GitHub do grupo.
 
 ## User Story
 Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Parceiro |

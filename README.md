@@ -69,7 +69,7 @@ Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Pa
 - [x] Criação das medidas;
 - [x] Iniciar a parte da visualização das principais métricas solicitadas;
 - [x] Testar o Dashboard;
-- [ ] Formatar o Dashboard conforme requisitos do cliente;
+- [x] Formatar o Dashboard conforme requisitos do cliente;
 - [ ] Salvar o Dashboard em PowerBI no GitHub.
 
 ## User Story
@@ -101,7 +101,7 @@ Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Pa
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 | Sprint 01 | 07/04/2025 | Finalizada | [MVP](https://github.com/intelilog/InteliLog/raw/refs/heads/main/Api%202025%20InteliLog%20-%20Sprint%201.xlsx) | 
-| Sprint 02 | 28/04/2025 | a fazer|[MVP](https://) | 
+| Sprint 02 | 05/05/2025 | a fazer|[MVP](https://) | 
 | Sprint 03 | 12/05/2025 | a fazer|[MVP](https://) | 
 | Feira de Soluções | 17/06/2025 |a fazer |[MVP](https://) | 
 | Sprint 04 | 23/06/2025 |a fazer |[MVP](https://)  | 

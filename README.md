@@ -50,7 +50,7 @@ Este projeto tem como objetivo desenvolver uma plataforma em BI, que:
 - [x] Criar BackLog;
 - [x] Alinhamento do Grupo quanto aos requisitos do cliente;
 - [x] Baixar bases públicas no site ComexStat;
-- [ ] Salvar as bases no GitHub em duas versões (Completa e Compilada);
+- [x] Salvar as bases no GitHub em duas versões (Completa e Compilada);
 - [x] Tratar bases em Python (Compilar e transformar dados);
 - [x] Criar um dashboard piloto em  Excel com a base compilada;
 - [x] Validação e apresentação da proposta do dashboard piloto ao cliente;
@@ -70,7 +70,7 @@ Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Pa
 - [x] Iniciar a parte da visualização das principais métricas solicitadas;
 - [x] Testar o Dashboard;
 - [x] Formatar o Dashboard conforme requisitos do cliente;
-- [ ] Salvar o Dashboard em PowerBI no GitHub.
+- [x] Salvar o Dashboard em PowerBI no GitHub.
 
 ## User Story
 Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Parceiro |
@@ -101,6 +101,6 @@ Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Pa
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 | Sprint 01 | 07/04/2025 | Finalizada | [MVP](https://github.com/intelilog/InteliLog/raw/refs/heads/main/Api%202025%20InteliLog%20-%20Sprint%201.xlsx) | 
-| Sprint 02 | 05/05/2025 | Finalizada |[MVP](https://) | 
+| Sprint 02 | 05/05/2025 | Finalizada |[MVP](https://github.com/intelilog/InteliLog/raw/refs/heads/main/Sprint2.pbix) | 
 | Sprint 03 | 26/05/2025 | a fazer|[MVP](https://) | 
 | Feira de Soluções | 17/06/2025 |a fazer |[MVP](https://) | 

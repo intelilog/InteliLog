@@ -83,7 +83,7 @@ Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Pa
 
 ## Sprint 3
 - [x] Finalização da formatação do PowerBI;
-- [x] Ajustes conforme solicitação do cliente.
+- [] Ajustes conforme solicitação do cliente.
 
 ## User Story
 Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Parceiro |

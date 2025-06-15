@@ -83,6 +83,9 @@ Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Pa
 | 6 | Média | Como cliente quero identificar quais são as principais vias de transporte utilizada para escoar exportações e receber importações e como isso afeta os custos e a eficiência logística para otimizar custos e eficiência logística. | Duas semanas | 2 | 5 |
 | 9 | Média | Como cliente quero entender quem são os principais fornecedores e clientes internacionais das empresas nos municípios, para entender como essas relações imapactam a economia local. | Duas semanas | 2 | 8 |  
 
+### MVP - Sprint 2
+![Image](https://github.com/user-attachments/assets/3a63b4cd-a96d-45af-ac48-6522f05c6762)
+
 
 ## Sprint 3
 - [x] Finalização da formatação do PowerBI;

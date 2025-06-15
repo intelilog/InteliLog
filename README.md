@@ -63,6 +63,9 @@ Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Pa
 | 2 | Alta | Como cliente quero saber se os municípios concentraram suas exportações em poucos produtos ou apresentaram uma pauta diversificada para avaliar a necessidade de diversificação.  | Uma semana | 1 | 4 |
 | 1 | Alta | Como cliente quero compreender com base na tendência histórica, quais são as projeçõs para o desempenho comercial dos municípios nos próximos anos para planejar meu futuro. | Uma semana | 1 | 10 |
 
+### MVP - Sprint 1
+![Image](https://github.com/user-attachments/assets/a5053abb-4c0d-46a9-b142-f024938cdbe0)
+
 ## Sprint 2
 - [x] Iniciar o Dashboard em PowerBI, carregando e transformando as bases;
 - [x] Iniciar os relacionamentos necessários no Dashboard no PowerBI;

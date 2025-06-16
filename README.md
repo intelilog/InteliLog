@@ -99,7 +99,7 @@ Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Pa
 | 10 | Baixa | Como cliente quero acessar quais os riscos associados à dependência de mercados específicos ou de poucos parceiros comerciais para mitigar estes riscos. | Três semanas | 3 | 9 |
 
 ### MVP - Sprint 3
-
+![Image](https://github.com/user-attachments/assets/8d6ef2f1-3d17-4c5d-b5cb-31ccebed642d)
 
       
 ## Sprint 4

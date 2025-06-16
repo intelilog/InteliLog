@@ -98,6 +98,9 @@ Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Pa
 | 8 | Baixa | Como cliente quero visualizar como os produtos exportados se posicionam em termos de preço e qualidade nos mercados internacionais para melhorar minha competitividade. | Três semanas | 3 | 7 |
 | 10 | Baixa | Como cliente quero acessar quais os riscos associados à dependência de mercados específicos ou de poucos parceiros comerciais para mitigar estes riscos. | Três semanas | 3 | 9 |
 
+### MVP - Sprint 3
+
+
       
 ## Sprint 4
 - [ ] Apresentação do resultado final.

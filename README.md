@@ -103,7 +103,7 @@ Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Pa
 
       
 ## Sprint 4
-- [ ] Apresentação do resultado final.
+- [x] Apresentação do resultado final.
 
 # Registro das Sprints
 

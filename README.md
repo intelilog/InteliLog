@@ -56,11 +56,11 @@ Este projeto tem como objetivo desenvolver uma plataforma em BI, que:
 - [x] Salvar arquivo da proposta piloto no GitHub do grupo.
 
 ## User Story
-Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Parceiro |
+Rank | Prioridade | User Story | Estimativa (Semanas) | Sprint | Requisitos do Parceiro |
 |------|--------|---------------------|--------|----------|---------|
-| 1 | Alta | Como cliente quero identificar quais países tem aumentado a importação de produtos específicos dos municípios paulistas para explorar novos mercados. | Uma semana | 1 | 2 |
-| 2 | Alta | Como cliente quero saber se os municípios concentraram suas exportações em poucos produtos ou apresentaram uma pauta diversificada para avaliar a necessidade de diversificação.  | Uma semana | 1 | 4 |
-| 1 | Alta | Como cliente quero compreender com base na tendência histórica, quais são as projeçõs para o desempenho comercial dos municípios nos próximos anos para planejar meu futuro. | Uma semana | 1 | 10 |
+| 1 | Alta | Como tomador de Decisões de políticas públicas, solicito a limpeza e o tratamento dos dados das bases públicas sobre cargas perigosas, a fim de iniciar análises confiáveis. | 1 | 1 | 1 |
+| 2 | Alta | Como tonmador de Decisões de políticas públicas, gostaria de compreender de forma clara quais são os principais modais de tranpsorte utilizados na movimentação de cargas perigosas.  | 1 | 1 | 1 |
+| 3 | Alta | Como tomador de Decisões de políticas públicas, desejo vizualizar de forma interativa as principais cargas perigosas movimentadas, para apoiar a formulação de políticas de segurança.  | 1 | 1 | 1 |
 
 ### MVP - Sprint 1
 ![Image](https://github.com/user-attachments/assets/a5053abb-4c0d-46a9-b142-f024938cdbe0)

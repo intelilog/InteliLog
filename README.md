@@ -9,7 +9,7 @@ Projeto baseado na Metodologia SCRUM para acompanhamento do fluxo de cargas espe
 * [Backlog do Produto](#backlog-do-produto)
 
 # Projeto
-Desenvolvimento de um dashboard interativo com dados agregados de fluxo de cargas especiais e perigosas.
+Fluxo de Cargas Especiais e Perigosas e Análise estatística de acidentes por veículos pesados e a analise dos acidentes próximos aos pontos de descansos.
 
 
 # Equipe

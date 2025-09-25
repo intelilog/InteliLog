@@ -62,8 +62,7 @@ Rank | Prioridade | User Story | Estimativa (Semanas) | Sprint | Requisitos do P
 | 2 | Alta | Como tonmador de Decisões de políticas públicas, gostaria de compreender de forma clara quais são os principais modais de tranpsorte utilizados na movimentação de cargas perigosas.  | 1 | 1 | 1 |
 | 3 | Alta | Como tomador de Decisões de políticas públicas, desejo vizualizar de forma interativa as principais cargas perigosas movimentadas, para apoiar a formulação de políticas de segurança.  | 1 | 1 | 1 |
 
-### MVP - Sprint 1
-![Image](https://github.com/user-attachments/assets/a5053abb-4c0d-46a9-b142-f024938cdbe0)
+
 
 ## Sprint 2
 - [x] Iniciar o Dashboard em PowerBI, carregando e transformando as bases;
@@ -75,15 +74,17 @@ Rank | Prioridade | User Story | Estimativa (Semanas) | Sprint | Requisitos do P
 - [x] Salvar o Dashboard em PowerBI no GitHub.
 
 ## User Story
-Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Parceiro |
+Rank | Prioridade | User Story | Estimativa (Semanas) | Sprint | Requisitos do Parceiro |
 |------|--------|---------------------|--------|----------|---------|
-| 4 | Média | Como cliente, quero comparar o desempenho comercial do meu município com outros municípios vizinhos ou de porte semelhante, para identificar oportunidades de melhoria. | Duas semanas | 2 | 1 |
-| 5 | Média | Como cliente quero analisar como mudanças em políticas tarifárias ou acordo comerciais afetaram as exportações e importações para adaptar minhas estratégias. | Duas semanas | 2 | 3 |
-| 6 | Média | Como cliente quero identificar quais são as principais vias de transporte utilizada para escoar exportações e receber importações e como isso afeta os custos e a eficiência logística para otimizar custos e eficiência logística. | Duas semanas | 2 | 5 |
-| 9 | Média | Como cliente quero entender quem são os principais fornecedores e clientes internacionais das empresas nos municípios, para entender como essas relações imapactam a economia local. | Duas semanas | 2 | 8 |  
+| 4 | Média | Como tomador de Decisões de políticas públicas, quero identificar uma análise estatística de acidentes viários. | 2 | 2 | 1 |
+| 5 | Alta | Como tomador de Decisões de plíticas públicas, quero vizualizar as principais empresas responsáveis pela movimentação de cargas perigosas declaradas, a fim de compreender a estrutura do setor e identificar atores críticos na cadeia logística. | 2 | 2 | 3 |
+| 6 | Média | Como tomador de Decisões de políticas públicas, quero identificar as principais origens e destinos de cargas perigosas, a fim de mapear fluxos críticos. | 2 | 2 | 5 |
+| 7 | Média | Como tomador de Decisões de políticas públicas, quero acompanhar a evolução da movimentação de cargas perigosas ao longo do tempo, para avaliar tendências de crescimento ou redução do setor. | 2 | 2 | 5 |
+ 
 
-### MVP - Sprint 2
-![Image](https://github.com/user-attachments/assets/3a63b4cd-a96d-45af-ac48-6522f05c6762)
+ 
+
+
 
 
 ## Sprint 3
@@ -93,22 +94,16 @@ Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Pa
 ## User Story
 Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Parceiro |
 |------|--------|---------------------|--------|----------|---------|
-| 7 | Baixa | Como cliente quero entender padrões sazonais nas exportações/importações de determinados produtos e entender como as empresas locais lidam com essas variações para planejar minha produção e estoque. | Três semanas | 3 | 6 |
-| 8 | Baixa | Como cliente quero visualizar como os produtos exportados se posicionam em termos de preço e qualidade nos mercados internacionais para melhorar minha competitividade. | Três semanas | 3 | 7 |
-| 10 | Baixa | Como cliente quero acessar quais os riscos associados à dependência de mercados específicos ou de poucos parceiros comerciais para mitigar estes riscos. | Três semanas | 3 | 9 |
+| 8 | Média | Como tomador de Decisões de plíticas públicas, quero identificar as localidades com maior incidência de acidentes envolvendo veículos pesados, para avaliar riscos logísticos. | 3 | 3 | 6 |
+| 9 | Baixa | Como tomador de Decisões de plíticas públicas, quero analisar as distâncias entre as localidades com maiores indices de acidentes e os locais de paradas de descanso, para avaliar a relação entre infraestrutura e segurança viária. | 3 | 3 | 7 |
 
-### MVP - Sprint 3
-![Image](https://github.com/user-attachments/assets/8d6ef2f1-3d17-4c5d-b5cb-31ccebed642d)
 
-      
-## Sprint 4
-- [x] Apresentação do resultado final.
 
 # Registro das Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-| Sprint 01 | 07/04/2025 | Finalizada | [MVP](https://github.com/intelilog/InteliLog/raw/refs/heads/main/API%201%20-%20Sprint%201.xlsx) | 
+| Sprint 01 | 01/10/2025 | A fazer | [MVP] ()| 
 | Sprint 02 | 05/05/2025 | Finalizada |[MVP](https://github.com/intelilog/InteliLog/raw/refs/heads/main/Sprint2.pbix) | 
 | Sprint 03 | 26/05/2025 | Finalizada |[MVP](https://github.com/intelilog/InteliLog/raw/refs/heads/main/Sprint3.pbix) | 
 | Feira de Soluções | 17/06/2025 | A realizar | [MVP](https://)

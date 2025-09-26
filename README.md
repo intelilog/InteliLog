@@ -103,7 +103,7 @@ Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Pa
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-| Sprint 01 | 01/10/2025 | A fazer | [MVP] ()| 
-| Sprint 02 | 05/05/2025 | Finalizada |[MVP](https://github.com/intelilog/InteliLog/raw/refs/heads/main/Sprint2.pbix) | 
-| Sprint 03 | 26/05/2025 | Finalizada |[MVP](https://github.com/intelilog/InteliLog/raw/refs/heads/main/Sprint3.pbix) | 
-| Feira de Soluções | 17/06/2025 | A realizar | [MVP](https://)
+| Sprint 01 | 01/10/2025 | A fazer | [MVP](https://)| 
+| Sprint 02 | 00/00/2025 | A fazer |[MVP](https://) | 
+| Sprint 03 | 09/00/2025 | A fazer |[MVP](https://) | 
+| Feira de Soluções | 04/12/2025 | A realizar | [MVP](https://)

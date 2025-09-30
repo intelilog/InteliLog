@@ -65,12 +65,12 @@ Rank | Prioridade | User Story | Estimativa (Semanas) | Sprint | Requisitos do P
 
 
 ## Sprint 2
-- [x] Média de volume movimentado por empresa;
-- [x] Criar ranking top 20 empresas. Desenvolver dashboard com filtros por estado;
-- [x] Contar movimentações por par origem-destino;
-- [x] Implementar filtros interativos;
-- [x] Testar o Dashboard;
-- [x] Agregar dados por mês/ano. Criar série temporal;
+- [] Média de volume movimentado por empresa;
+- [] Criar ranking top 20 empresas. Desenvolver dashboard com filtros por estado;
+- [] Contar movimentações por par origem-destino;
+- [] Implementar filtros interativos;
+- [] Testar o Dashboard;
+- [] Agregar dados por mês/ano. Criar série temporal;
 
 ## User Story
 Rank | Prioridade | User Story | Estimativa (Semanas) | Sprint | Requisitos do Parceiro |

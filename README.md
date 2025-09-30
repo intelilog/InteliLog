@@ -25,12 +25,10 @@ Fluxo de Cargas Especiais e Perigosas e análise estatística de acidentes por v
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo desenvolver uma plataforma em BI, que:
-* Permite visualizar informações sobre o desempenho dos municípios dos estados de SP com base nos dados abertos;
-* Fornece dados claros e acessíveis para identificação de municípios que estejam em ascensão, estagnação ou declínio no mercado internacional;
-* Segmenta os municípios, apresentando as principais cargas movimentadas, ranking por valor agregado de exportação e importação e a evolução histórica da balança comercial;
-* Permite buscar cargas por código NCM;
-* Possuí uma visualização gráfica interativa que apresenta a evolução da balança comercial dos municípios de 2023 a 2024.
+Este projeto tem como objetivo desenvolver uma plataforma em BI, que permite:
+* Mapear o fluxo de cargas: Determinar as principais cargas, modais, origens e destinos utilizados na movimentação, além de analisar sua evolução histórica. 
+* Identificar riscos e agentes: Localizar as empresas com maior movimentação de cargas perigosas e as localidades de maior incidência de acidentes viários envolvendo veículos pesados.
+* Avaliar a infraestrutura de segurança: Quantificar as distâncias entre os locais de maior incidência de acidentes e o pontos de parada de descanso para subsidiar planos de mitigação e prevenção. 
 
 ## Tecnologias Utilizadas
 

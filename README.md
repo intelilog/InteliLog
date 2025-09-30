@@ -9,7 +9,7 @@ Projeto baseado na Metodologia SCRUM para acompanhamento do fluxo de cargas espe
 * [Backlog do Produto](#backlog-do-produto)
 
 # Projeto
-Fluxo de Cargas Especiais e Perigosas e Análise estatística de acidentes por veículos pesados e a analise dos acidentes próximos aos pontos de descansos.
+Fluxo de Cargas Especiais e Perigosas e análise estatística de acidentes por veículos pesados e acidentes próximos aos pontos de descansos.
 
 
 # Equipe
@@ -45,33 +45,32 @@ Este projeto tem como objetivo desenvolver uma plataforma em BI, que:
 # Backlog do produto
 
 ## Sprint 1
-- [x] Dar acesso do Jira Software a todos do grupo;
-- [x] Criar BackLog;
-- [x] Alinhamento do Grupo quanto aos requisitos do cliente;
-- [x] Baixar bases públicas no site ComexStat;
-- [x] Salvar as bases no GitHub em duas versões (Completa e Compilada);
-- [x] Tratar bases em Python (Compilar e transformar dados);
-- [x] Criar um dashboard piloto em  Excel com a base compilada;
-- [x] Validação e apresentação da proposta do dashboard piloto ao cliente;
-- [x] Salvar arquivo da proposta piloto no GitHub do grupo.
+- [x] Criar visualização interativa com drill-down. Permitir filtros de ano/estado;
+- [x] Levantar todas as fontes de dados (bases abertas, APIs, arquivos CSV/Excel), Valida-las e compacta-las;
+- [x] Criar script ETL para padronização de campos. Implementar regras de limpeza (duplicatas, nulos, inconsistências);
+- [x] Criar indicadores e graficos de cada modal;
+- [x] Desenvolver dashboard com gráfico de barras. Implementar filtros por região, ano e tipo de carga;
+- [x] Visual e auxiliar nas analises gráficas;
+- [x] Slides de apresentação;
+- [x] Alinhar Github da Empresa;
+- [x] Classificar cargas por volume movimentado.
 
 ## User Story
 Rank | Prioridade | User Story | Estimativa (Semanas) | Sprint | Requisitos do Parceiro |
 |------|--------|---------------------|--------|----------|---------|
 | 1 | Alta | Como tomador de Decisões de políticas públicas, solicito a limpeza e o tratamento dos dados das bases públicas sobre cargas perigosas, a fim de iniciar análises confiáveis. | 1 | 1 | 1 |
-| 2 | Alta | Como tonmador de Decisões de políticas públicas, gostaria de compreender de forma clara quais são os principais modais de tranpsorte utilizados na movimentação de cargas perigosas.  | 1 | 1 | 1 |
+| 2 | Alta | Como tomador de Decisões de políticas públicas, gostaria de compreender de forma clara quais são os principais modais de tranpsorte utilizados na movimentação de cargas perigosas.  | 1 | 1 | 1 |
 | 3 | Alta | Como tomador de Decisões de políticas públicas, desejo vizualizar de forma interativa as principais cargas perigosas movimentadas, para apoiar a formulação de políticas de segurança.  | 1 | 1 | 1 |
 
 
 
 ## Sprint 2
-- [x] Iniciar o Dashboard em PowerBI, carregando e transformando as bases;
-- [x] Iniciar os relacionamentos necessários no Dashboard no PowerBI;
-- [x] Criação das medidas;
-- [x] Iniciar a parte da visualização das principais métricas solicitadas;
+- [x] Média de volume movimentado por empresa;
+- [x] Criar ranking top 20 empresas. Desenvolver dashboard com filtros por estado;
+- [x] Contar movimentações por par origem-destino;
+- [x] Implementar filtros interativos;
 - [x] Testar o Dashboard;
-- [x] Formatar o Dashboard conforme requisitos do cliente;
-- [x] Salvar o Dashboard em PowerBI no GitHub.
+- [x] Agregar dados por mês/ano. Criar série temporal;
 
 ## User Story
 Rank | Prioridade | User Story | Estimativa (Semanas) | Sprint | Requisitos do Parceiro |
@@ -81,15 +80,11 @@ Rank | Prioridade | User Story | Estimativa (Semanas) | Sprint | Requisitos do P
 | 6 | Média | Como tomador de Decisões de políticas públicas, quero identificar as principais origens e destinos de cargas perigosas, a fim de mapear fluxos críticos. | 2 | 2 | 5 |
 | 7 | Média | Como tomador de Decisões de políticas públicas, quero acompanhar a evolução da movimentação de cargas perigosas ao longo do tempo, para avaliar tendências de crescimento ou redução do setor. | 2 | 2 | 5 |
  
-
- 
-
-
-
-
 ## Sprint 3
-- [x] Finalização da formatação do PowerBI;
-- [x] Ajustes conforme solicitação do cliente.
+- [ ] Classificar municípios em alto/médio/baixo risco;
+- [ ] Calcular taxa de acidentes por km;
+- [ ] Identificar áreas com baixa cobertura. Gerar relatório de recomendações;
+- [ ] Mapear pontos de parada existentes. Calcular distância entre acidentes e paradas
 
 ## User Story
 Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Parceiro |
@@ -103,7 +98,7 @@ Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Pa
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-| Sprint 01 | 01/10/2025 | A fazer | [MVP](https://)| 
-| Sprint 02 | 00/00/2025 | A fazer |[MVP](https://) | 
-| Sprint 03 | 09/00/2025 | A fazer |[MVP](https://) | 
+| Sprint 01 | 01/10/2025 | A realizar | [MVP](https://)| 
+| Sprint 02 | 00/00/2025 | A realizar |[MVP](https://) | 
+| Sprint 03 | 0/00/2025 | A realizar |[MVP](https://) | 
 | Feira de Soluções | 04/12/2025 | A realizar | [MVP](https://)

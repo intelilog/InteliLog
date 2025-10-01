@@ -54,11 +54,12 @@ Este projeto tem como objetivo desenvolver uma plataforma em BI, que permite:
 - [x] Classificar cargas por volume movimentado.
 
 ## User Story
-Rank | Prioridade | User Story | Estimativa (Semanas) | Sprint | Requisitos do Parceiro |
-|------|--------|---------------------|--------|----------|---------|
-| 1 | Alta | Como tomador de Decisões de políticas públicas, solicito a limpeza e o tratamento dos dados das bases públicas sobre cargas perigosas, a fim de iniciar análises confiáveis. | 1 | 1 | 1 |
-| 2 | Alta | Como tomador de Decisões de políticas públicas, gostaria de compreender de forma clara quais são os principais modais de tranpsorte utilizados na movimentação de cargas perigosas.  | 1 | 1 | 1 |
-| 3 | Alta | Como tomador de Decisões de políticas públicas, desejo vizualizar de forma interativa as principais cargas perigosas movimentadas, para apoiar a formulação de políticas de segurança.  | 1 | 1 | 1 |
+Rank | Prioridade | User Story | Sprint | Estimativa |
+|------|--------|---------------------|--------|----------|
+| 1 | Alta | Como tomador de Decisões de políticas públicas, solicito a limpeza e o tratamento dos dados das bases públicas sobre cargas perigosas, a fim de iniciar análises confiáveis. | 7 | 1 | 
+| 2 | Alta | Como tomador de Decisões de políticas públicas, gostaria de compreender de forma clara quais são os principais modais de tranpsorte utilizados na movimentação de cargas perigosas.  | 1 | 7 |
+| 3 | Alta | Como tomador de Decisões de políticas públicas, desejo vizualizar de forma interativa as principais cargas perigosas movimentadas, para apoiar a formulação de políticas de segurança.  | 1 | 7 |
+## MVP
 
 
 
@@ -71,12 +72,12 @@ Rank | Prioridade | User Story | Estimativa (Semanas) | Sprint | Requisitos do P
 - [ ] Agregar dados por mês/ano. Criar série temporal;
 
 ## User Story
-Rank | Prioridade | User Story | Estimativa (Semanas) | Sprint | Requisitos do Parceiro |
-|------|--------|---------------------|--------|----------|---------|
-| 4 | Média | Como tomador de Decisões de políticas públicas, quero identificar uma análise estatística de acidentes viários. | 2 | 2 | 1 |
-| 5 | Alta | Como tomador de Decisões de plíticas públicas, quero vizualizar as principais empresas responsáveis pela movimentação de cargas perigosas declaradas, a fim de compreender a estrutura do setor e identificar atores críticos na cadeia logística. | 2 | 2 | 3 |
-| 6 | Média | Como tomador de Decisões de políticas públicas, quero identificar as principais origens e destinos de cargas perigosas, a fim de mapear fluxos críticos. | 2 | 2 | 5 |
-| 7 | Média | Como tomador de Decisões de políticas públicas, quero acompanhar a evolução da movimentação de cargas perigosas ao longo do tempo, para avaliar tendências de crescimento ou redução do setor. | 2 | 2 | 5 |
+Rank | Prioridade | User Story | Sprint | Estimativa |
+|------|--------|---------------------|--------|----------|
+| 4 | Média | Como tomador de Decisões de políticas públicas, quero identificar uma análise estatística de acidentes viários. | 2 | 2 |
+| 5 | Alta | Como tomador de Decisões de plíticas públicas, quero vizualizar as principais empresas responsáveis pela movimentação de cargas perigosas declaradas, a fim de compreender a estrutura do setor e identificar atores críticos na cadeia logística. | 2 | 4 | 
+| 6 | Média | Como tomador de Decisões de políticas públicas, quero identificar as principais origens e destinos de cargas perigosas, a fim de mapear fluxos críticos. | 2 | 2 | 
+| 7 | Média | Como tomador de Decisões de políticas públicas, quero acompanhar a evolução da movimentação de cargas perigosas ao longo do tempo, para avaliar tendências de crescimento ou redução do setor. | 2 | 2 | 
  
 ## Sprint 3
 - [ ] Classificar municípios em alto/médio/baixo risco;
@@ -85,10 +86,10 @@ Rank | Prioridade | User Story | Estimativa (Semanas) | Sprint | Requisitos do P
 - [ ] Mapear pontos de parada existentes. Calcular distância entre acidentes e paradas
 
 ## User Story
-Rank | Prioridade | User Story | Estimativa de Tempo | Sprint | Requisitos do Parceiro |
-|------|--------|---------------------|--------|----------|---------|
-| 8 | Média | Como tomador de Decisões de plíticas públicas, quero identificar as localidades com maior incidência de acidentes envolvendo veículos pesados, para avaliar riscos logísticos. | 3 | 3 | 6 |
-| 9 | Baixa | Como tomador de Decisões de plíticas públicas, quero analisar as distâncias entre as localidades com maiores indices de acidentes e os locais de paradas de descanso, para avaliar a relação entre infraestrutura e segurança viária. | 3 | 3 | 7 |
+Rank | Prioridade | User Story | Sprint | Estimativa |
+|------|--------|---------------------|--------|----------|
+| 8 | Média | Como tomador de Decisões de plíticas públicas, quero identificar as localidades com maior incidência de acidentes envolvendo veículos pesados, para avaliar riscos logísticos. | 3 | 2 |
+| 9 | Baixa | Como tomador de Decisões de plíticas públicas, quero analisar as distâncias entre as localidades com maiores indices de acidentes e os locais de paradas de descanso, para avaliar a relação entre infraestrutura e segurança viária. | 3 | 2 | 
 
 
 

@@ -94,11 +94,7 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-| Sprint 01 | 01/10/2025 | A realizar | [MVP](
-
-https://github.com/user-attachments/assets/f142ae64-dfbf-4adc-945f-94c638f4d8e8
-
-)| 
+| Sprint 01 | 01/10/2025 | A realizar | [MVP](https://)| 
 | Sprint 02 | 00/00/2025 | A realizar |[MVP](https://) | 
 | Sprint 03 | 0/00/2025 | A realizar |[MVP](https://) | 
 | Feira de Soluções | 04/12/2025 | A realizar | [MVP](https://)

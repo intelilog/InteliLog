@@ -62,7 +62,7 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
 
 ## Sprint 2
 - [ ] Média de volume movimentado por empresa;
-- [ ] Criar ranking top 20 empresas. Desenvolver dashboard com filtros por estado;
+- [ ] Criar ranking top 10 empresas. Desenvolver dashboard com filtros por estado;
 - [ ] Contar movimentações por par origem-destino;
 - [ ] Implementar filtros interativos;
 - [ ] Testar o Dashboard;

@@ -61,12 +61,11 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
 | 3 | Alta | Como tomador de Decisões de políticas públicas, desejo vizualizar de forma interativa as principais cargas perigosas movimentadas, para apoiar a formulação de políticas de segurança.  | 1 | 7 |
 
 ## Sprint 2
-- [ ] Média de volume movimentado por empresa;
-- [ ] Criar ranking top 10 empresas. Desenvolver dashboard com filtros por estado;
-- [ ] Contar movimentações por par origem-destino;
-- [ ] Implementar filtros interativos;
-- [ ] Testar o Dashboard;
-- [ ] Agregar dados por mês/ano. Criar série temporal;
+- [x] Média de volume movimentado por empresa;
+- [x] Criar ranking top 10 empresas. Desenvolver dashboard com filtros por estado;
+- [x] Contar movimentações por par origem-destino;
+- [x] Implementar filtros interativos;
+- [x] Testar o Dashboard;
 
 ## User Story
 Rank | Prioridade | User Story | Sprint | Estimativa |
@@ -94,7 +93,7 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-| Sprint 01 | 01/10/2025 | Feito | [MVP](https://)| 
-| Sprint 02 | 29/10/2025 | A realizar |[MVP](https://) | 
+| Sprint 01 | 01/10/2025 | Feito | [MVP](https://youtu.be/EwpNxhK66AU)| 
+| Sprint 02 | 29/10/2025 | A realizar |[MVP]([https://](https://youtu.be/fh-1ctxjmdE) | 
 | Sprint 03 | 0/00/2025 | A realizar |[MVP](https://) | 
 | Feira de Soluções | 04/12/2025 | A realizar | [MVP](https://)

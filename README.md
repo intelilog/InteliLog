@@ -95,6 +95,6 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 | Sprint 01 | 01/10/2025 | Feito | [MVP](https://youtu.be/EwpNxhK66AU)| 
-| Sprint 02 | 29/10/2025 | A realizar |[MVP](https://youtu.be/fh-1ctxjmdE) | 
+| Sprint 02 | 29/10/2025 | Feito |[MVP](https://youtu.be/fh-1ctxjmdE) | 
 | Sprint 03 | 0/00/2025 | A realizar |[MVP](https://) | 
 | Feira de Soluções | 04/12/2025 | A realizar | [MVP](https://)

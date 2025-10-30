@@ -7,6 +7,7 @@ Projeto baseado na Metodologia SCRUM para acompanhamento do fluxo de cargas espe
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Backlog do Produto](#backlog-do-produto)
+* [MVP - Sprints](#registro-das-sprints)
 
 # Projeto
 Fluxo de Cargas Especiais e Perigosas e análise estatística de acidentes por veículos pesados e acidentes próximos aos pontos de descansos.

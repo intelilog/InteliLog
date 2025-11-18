@@ -77,7 +77,7 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
  
 ## Sprint 3
 - [ ] Classificar municípios em alto/médio/baixo risco;
-- [ ] Calcular taxa de acidentes por km;
+- [ ] Calcular taxa de acidentes por endereço;
 - [ ] Mapear pontos de parada existentes. Calcular distância entre acidentes e paradas
 
 ## User Story

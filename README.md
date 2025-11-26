@@ -76,9 +76,9 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
 | 7 | Média | Como tomador de Decisões de políticas públicas, quero acompanhar a evolução da movimentação de cargas perigosas ao longo do tempo, para avaliar tendências de crescimento ou redução do setor. | 2 | 2 | 
  
 ## Sprint 3
-- [ ] Classificar municípios em alto/médio/baixo risco;
-- [ ] Calcular taxa de acidentes por endereço;
-- [ ] Mapear pontos de parada existentes. Calcular distância entre acidentes e paradas
+- [x] Classificar municípios em alto/médio/baixo risco;
+- [x] Calcular taxa de acidentes por endereço;
+- [x] Mapear pontos de parada existentes. Calcular distância entre acidentes e paradas
 
 ## User Story
 Rank | Prioridade | User Story | Sprint | Estimativa |

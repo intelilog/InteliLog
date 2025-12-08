@@ -95,4 +95,4 @@ Sprint | Previsão | Status| Histórico|
 | Sprint 01 | 01/10/2025 | Feito | [MVP](https://youtu.be/EwpNxhK66AU)| 
 | Sprint 02 | 29/10/2025 | Feito |[MVP](https://youtu.be/fh-1ctxjmdE) | 
 | Sprint 03 | 28/11/2025 | Feito |[MVP](https://youtu.be/TXF0bd0O4PE?si=TpCA3qWbGniE9ab5) | 
-| Feira de Soluções | 04/12/2025 | Feito | [MVP] |
+| Feira de Soluções | 04/12/2025 | Feito | MVP |

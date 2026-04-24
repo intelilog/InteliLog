@@ -69,9 +69,9 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
 | 6 | Média | Como analista de políticas públicas, quero analisar a correlação entre o crescimento da frota de veículos pesados e o aumento de sinistros fatais, para identificar possíveis relações de causa ou fatores de risco  | 2 | 4 |
 
 ## Sprint 3 
-* Analisar variações regionais nos sinistros envolvendo veículos pesados;
-* Desenvolver ranking de eficiência em segurança viária para municípios;
-* Comparar indicadores estaduais com a média nacional;
+- [ ] Analisar variações regionais nos sinistros envolvendo veículos pesados;
+- [ ] Desenvolver ranking de eficiência em segurança viária para municípios;
+- [ ] Comparar indicadores estaduais com a média nacional;
 
 ## User Story 
 Rank | Prioridade | User Story | Sprint | Estimativa |

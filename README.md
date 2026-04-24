@@ -86,7 +86,7 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-| Sprint 01 | 24/04/2026 | Em progresso | MVP | 
+| Sprint 01 | 24/04/2026 | Em progresso | MVP [(https://youtu.be/ASKufVJc63Y)] | 
 | Sprint 02 | 15/05/2026 | Não iniciado | MVP | 
 | Sprint 03 | 29/05/2026 | Não iniciado | MVP | 
 | Feira de Soluções | 18/06/2026 | Não iniciado | MVP |

@@ -32,50 +32,24 @@ Este projeto tem como objetivo desenvolver um dashbord, que permita:
 * Analisar fatores de risco: Identificar possíveis relações entre variáveis, como o crescimento da frota de veículos pesados e o aumento de acidentes.
 * Classificar municípios por desempenho: Elaborar um ranking de eficiência em segurança viária para municípios com mais de 250 mil habitantes.
 
-## Tecnologias Utilizadas
-
- ### Tecnologias Específicas/Apoio
- > * GitHub
- > * Jira Software
-  
- ### Tecnologias da Informação
- > * Power B.I  
- > * Python
+# Tecnologias Utilizadas 
+* <img src="https://github.com/user-attachments/assets/605548ba-69fb-4fde-bfbf-e077f919fcb7" width="40"/>  *Github*
+* <img src="https://github.com/user-attachments/assets/f8501508-ccc6-4e91-a346-697986a138a8" width="40"/> *Jira Software*
+* <img src="https://github.com/user-attachments/assets/bf25df7a-bd70-482f-8cc6-8a28e014151b" width="40"/> *PowerBI*
+* <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="40"/>  *Phyton*
+* <img src="https://github.com/user-attachments/assets/680b9d0e-807f-41d0-8552-304c62e4baf8" width="40"/>  *Google Colab*
+<br>
 
 # Backlog do produto
 
-## Sprint 1
-- [x] Realizar limpeza, padronização e integração das bases públicas de sinistros de trânsito;
-- [x] Desenvolver visualização da taxa de mortes por 100 mil habitantes por estado;
-- [x] Identificar estados com maior taxa de letalidade em sinistros envolvendo veículos pesados;
-
-## User Story
 Rank | Prioridade | User Story | Sprint | Estimativa |
 |------|--------|---------------------|--------|----------|
 | 1 | Alta | Como analista de políticas públicas, quero que as bases públicas de sinistros de trânsito com foco em veículos pesados estejam limpas, padronizadas e integradas, a fim de garantir a confiabilidade e consistência das análises subsequentes. | 1 | 7 | 
 | 2 | Alta | Como tomador de decisão em políticas públicas, quero visualizar a taxa de mortes por 100 mil habitantes por estado, para comparar as unidades federativas.  | 1 | 6 |
 | 3 | Alta | Como analista de segurança viária, quero identificar os estados com maior taxa de letalidade em sinistros envolvendo veículos pesados, para priorizar intervenções em regiões críticas.  | 1 | 6 |
-
-## Sprint 2 
-- [ ] Analisar evolução dos indicadores de segurança viária (2015–2025);
-- [ ] Calcular taxa de sinistros por 10 mil veículos;
-- [ ] Analisar correlação entre frota de veículos pesados e sinistros fatais;
-
-## User Story 
-Rank | Prioridade | User Story | Sprint | Estimativa |
-|------|--------|---------------------|--------|----------|
 | 4 | Média | Como gestor público, quero acompanhar a evolução dos indicadores de segurança viária entre 2015 e 2025. | 2 | 4 | 
 | 5 | Média | Como analista de dados, quero visualizar a taxa de sinistros por 10 mil veículos, para normalizar os dados e permitir comparações mais justas entre regiões.  | 2 | 2 |
 | 6 | Média | Como analista de políticas públicas, quero analisar a correlação entre o crescimento da frota de veículos pesados e o aumento de sinistros fatais, para identificar possíveis relações de causa ou fatores de risco  | 2 | 4 |
-
-## Sprint 3 
-- [ ] Analisar variações regionais nos sinistros envolvendo veículos pesados;
-- [ ] Desenvolver ranking de eficiência em segurança viária para municípios;
-- [ ] Comparar indicadores estaduais com a média nacional;
-
-## User Story 
-Rank | Prioridade | User Story | Sprint | Estimativa |
-|------|--------|---------------------|--------|----------|
 | 7 | Baixa | Como pesquisador em mobilidade, quero avaliar se há variações significativas nos sinistros envolvendo veículos pesados entre regiões do país, para entender padrões regionais e desigualdades. | 3 | 6 | 
 | 8 | Baixa | Como gestor público, quero visualizar um ranking de eficiência em segurança viária para municípios com mais de 250 mil habitantes, para identificar boas práticas e oportunidades de melhoria.  | 3 | 2 |
 | 9 | Baixa | Como tomador de decisão, quero comparar indicadores estaduais com a média nacional, para avaliar o desempenho relativo de cada estado.  | 3 | 2 |
@@ -86,8 +60,8 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-| Sprint 01 | 24/04/2026 | Finalizada | [MVP](https://youtu.be/ASKufVJc63Y) | 
-| Sprint 02 | 15/05/2026 | Não iniciado | MVP | 
-| Sprint 03 | 29/05/2026 | Não iniciado | MVP | 
-| Feira de Soluções | 18/06/2026 | Não iniciado | MVP |
+| Sprint 01 | 24/04/2026 | Concluído | [MVP](https://github.com/intelilog/API-3SEM/blob/main/docs/mvp-sprint1.md) | 
+| Sprint 02 | 29/05/2026 | Concluído | [MVP](https://github.com/intelilog/API-3SEM/blob/main/docs/mvp-sprint2.md) | 
+| Sprint 03 | 12/06/2026 | Em progresso | MVP | 
+| Feira de Soluções | 25/06/2026 | Não iniciado | MVP |
 

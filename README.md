@@ -9,7 +9,7 @@ O Aprendizado por Projeto Integrador (API) é uma abordagem de ensino voltada ao
 * [Backlog do Produto](#backlog-do-produto)
 * [MVP - Sprints](#registro-das-sprints)
 
-# <h1 align="center"> Projeto
+# Projeto
 
 Projeto desenvolvido com base na metodologia SCRUM para análise integrada da segurança viária no Brasil, utilizando dados públicos e indicadores estatísticos para analisar sinistros de trânsito, identificar padrões, comparar indicadores entre estados e avaliar riscos relacionados à circulação de veículos pesados.
 
@@ -34,7 +34,7 @@ Este projeto tem como objetivo desenvolver um dashbord, que permita:
 * Classificar municípios por desempenho: Elaborar um ranking de eficiência em segurança viária para municípios com mais de 250 mil habitantes.
 
 # Tecnologias Utilizadas 
-* <img src="https://github.com/user-attachments/assets/605548ba-69fb-4fde-bfbf-e077f919fcb7" width="40"/>  *Github*
+* <img src="https://github.com/user-attachments/assets/605548ba-69fb-4fde-bfbf-e077f919fcb7" width="40"/>  *Github*                                                                                   
 * <img src="https://github.com/user-attachments/assets/f8501508-ccc6-4e91-a346-697986a138a8" width="40"/> *Jira Software*
 * <img src="https://github.com/user-attachments/assets/bf25df7a-bd70-482f-8cc6-8a28e014151b" width="40"/> *PowerBI*
 * <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="40"/>  *Phyton*
@@ -60,9 +60,9 @@ Rank | Prioridade | User Story | Sprint | Estimativa |
 # Registro das Sprints
 
 Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
+|-------|--------|------|--------|
 | Sprint 01 | 24/04/2026 | Concluído | [MVP](https://github.com/intelilog/API-3SEM/blob/main/docs/mvp-sprint1.md) | 
 | Sprint 02 | 29/05/2026 | Concluído | [MVP](https://github.com/intelilog/API-3SEM/blob/main/docs/mvp-sprint2.md) | 
-| Sprint 03 | 12/06/2026 | Em progresso | MVP | 
+| Sprint 03 | 12/06/2026 | Iniciado | MVP | 
 | Feira de Soluções | 25/06/2026 | Não iniciado | MVP |
 

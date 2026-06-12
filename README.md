@@ -34,12 +34,11 @@ Este projeto tem como objetivo desenvolver um dashbord, que permita:
 * Classificar municípios por desempenho: Elaborar um ranking de eficiência em segurança viária para municípios com mais de 250 mil habitantes.
 
 # Tecnologias Utilizadas 
-* <img src="https://github.com/user-attachments/assets/605548ba-69fb-4fde-bfbf-e077f919fcb7" width="40"/>  *Github*                                                                                   
-* <img src="https://github.com/user-attachments/assets/f8501508-ccc6-4e91-a346-697986a138a8" width="40"/> *Jira Software*
-* <img src="https://github.com/user-attachments/assets/bf25df7a-bd70-482f-8cc6-8a28e014151b" width="40"/> *PowerBI*
-* <img src="https://github.com/user-attachments/assets/d3cc67f6-258f-47bf-a1b8-4cd6cf8841fd" width="40"/>  *Phyton*
-* <img src="https://github.com/user-attachments/assets/680b9d0e-807f-41d0-8552-304c62e4baf8" width="40"/>  *Google Colab*
-<br>
+* Github                                                                                
+* Jira Software
+* PowerBI
+* Phyton
+* Google Colab
 
 # Backlog do produto
 

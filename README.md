@@ -70,7 +70,7 @@ A plataforma deverá permitir:
 
 Sprint | Previsão | Status | Histórico |
 |-------|--------|------|--------|
-| Sprint 01 | 02/10/2026 | Concluído | [MVP]() | 
+| Sprint 01 | 02/10/2026 | Concluído | [MVP](https://github.com/intelilog/InteliLog/blob/main/mvp-sprint1.md) | 
 | Sprint 02 | 30/10/2026 | Não iniciado | [MVP]() | 
 | Sprint 03 | 27/11/2026 | Não iniciado | [MVP]() | 
 | Feira de Soluções | 03/12/2026 | Não iniciado | [MVP]() | 

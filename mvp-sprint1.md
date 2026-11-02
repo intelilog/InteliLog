@@ -50,5 +50,3 @@ Sprint | Principais Entregas | Status
 **Detalhamento de Estoque Obsoleto e Cobertura:**
 ![Tabela de Materiais e Estoque Obsoleto]
 <img width="1162" height="653" alt="image" src="https://github.com/user-attachments/assets/ce7a087b-6cda-4107-a6d7-a99b575c8832" />
-
-## 📂 Anexos / Evidência

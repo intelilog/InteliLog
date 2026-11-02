@@ -44,9 +44,11 @@ Sprint | Principais Entregas | Status
 
 ## 📂 Anexos / Evidências
 **Visão Geral de Indicadores e Gráficos de Estoque:**
-![Indicadores Gerais e Gráficos do Estoque](/sprint1_1.jpg)
+![Indicadores Gerais e Gráficos do Estoque]
+<img width="1162" height="652" alt="image" src="https://github.com/user-attachments/assets/2dcd3f17-bb71-441a-ad59-ee599b7ca73b" />
 
 **Detalhamento de Estoque Obsoleto e Cobertura:**
-![Tabela de Materiais e Estoque Obsoleto](./img/sprint1_2.jpg)
+![Tabela de Materiais e Estoque Obsoleto]
+<img width="1162" height="653" alt="image" src="https://github.com/user-attachments/assets/ce7a087b-6cda-4107-a6d7-a99b575c8832" />
 
-## 📂 Anexos / Evidências
+## 📂 Anexos / Evidência

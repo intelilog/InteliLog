@@ -43,3 +43,10 @@ Sprint | Principais Entregas | Status
 - Criar alertas para estoque parado, excessivo ou crítico.
 
 ## 📂 Anexos / Evidências
+**Visão Geral de Indicadores e Gráficos de Estoque:**
+![Indicadores Gerais e Gráficos do Estoque](/sprint1_1.jpg)
+
+**Detalhamento de Estoque Obsoleto e Cobertura:**
+![Tabela de Materiais e Estoque Obsoleto](./img/sprint1_2.jpg)
+
+## 📂 Anexos / Evidências
